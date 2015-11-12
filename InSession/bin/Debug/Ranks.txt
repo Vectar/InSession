@@ -1,0 +1,3 @@
+Ikkyu,White,0,0,C:\Users\Tim\OneDrive\Documents\Projects\C#\Sempai\Sempai\images\Belts\White.png
+Nikyu,Yellow,0,0,C:\Users\Tim\OneDrive\Documents\Projects\C#\Sempai\Sempai\images\Belts\Yellow.png
+Gokyu,Orange,0,0,C:\Users\Tim\OneDrive\Documents\Projects\C#\Sempai\Sempai\images\Belts\2 Orange.png

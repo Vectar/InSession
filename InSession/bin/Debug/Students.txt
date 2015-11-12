@@ -1,0 +1,6 @@
+0,Jason,Reinders,1234567890, ,Bellevue,NE, ,Sammie,Reinders,0987654321,Daughter
+1,Tim,Walter,4026724776,5111 S 99th St,Omaha,NE,68127,April,Walter,4026725777,Wife
+2,Frank,Walk,402#######,123,Papillion,NE, ,Ashley,Bodin,##########,Girlfriend
+3,Andrew,Miller,(402) 123-4567,111 Tree Lane,Omaha,NE,68127,Andreas,Miller,Miller,(402) 123-4568
+4,Sammi,Reinders,(213) 456-7890,asd asda,Bellevue,NE,68111,Jason,Reinders,Reinders,(111) 111-1111
+5,Logan,Reinders,(   )    -,123,City,NE,12312,Jason,Reinders,Reinders,(123) 456-7890

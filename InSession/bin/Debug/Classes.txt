@@ -1,0 +1,8 @@
+8,Tuesday Kids,20150804 18:30,2,True
+8,Tuesday Adults,20150804 18:30,2,False
+8,Wednesday w\Matt,20150805 18:30,3,False
+8,Thursday Kids,20150806 18:30,2,False
+8,Thursday Adults,20150806 19:30,2,False
+8,Friday w\Matt,20150814 18:30,3,False
+8,Saturday Kids,20150808 11:30,2,False
+8,Saturday Adults,20150808 12:30,2,False

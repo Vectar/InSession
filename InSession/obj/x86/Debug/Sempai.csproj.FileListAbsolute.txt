@@ -1,0 +1,17 @@
+C:\Users\Tim\OneDrive\MSVS 2015 Projects\Projects\C#\Sempai\Sempai\bin\x86\Debug\Sempai.exe.config
+C:\Users\Tim\OneDrive\MSVS 2015 Projects\Projects\C#\Sempai\Sempai\bin\x86\Debug\Sempai.exe
+C:\Users\Tim\OneDrive\MSVS 2015 Projects\Projects\C#\Sempai\Sempai\bin\x86\Debug\Sempai.pdb
+C:\Users\Tim\OneDrive\MSVS 2015 Projects\Projects\C#\Sempai\Sempai\bin\x86\Debug\SQLite.NET.dll
+C:\Users\Tim\OneDrive\MSVS 2015 Projects\Projects\C#\Sempai\Sempai\obj\x86\Debug\Sempai.ClassManagement.resources
+C:\Users\Tim\OneDrive\MSVS 2015 Projects\Projects\C#\Sempai\Sempai\obj\x86\Debug\Sempai.frmMain.resources
+C:\Users\Tim\OneDrive\MSVS 2015 Projects\Projects\C#\Sempai\Sempai\obj\x86\Debug\Sempai.OptionsManagement.resources
+C:\Users\Tim\OneDrive\MSVS 2015 Projects\Projects\C#\Sempai\Sempai\obj\x86\Debug\Sempai.PasswordPrompt.resources
+C:\Users\Tim\OneDrive\MSVS 2015 Projects\Projects\C#\Sempai\Sempai\obj\x86\Debug\Sempai.PeopleManagement.resources
+C:\Users\Tim\OneDrive\MSVS 2015 Projects\Projects\C#\Sempai\Sempai\obj\x86\Debug\Sempai.Prompt.resources
+C:\Users\Tim\OneDrive\MSVS 2015 Projects\Projects\C#\Sempai\Sempai\obj\x86\Debug\Sempai.Intro.resources
+C:\Users\Tim\OneDrive\MSVS 2015 Projects\Projects\C#\Sempai\Sempai\obj\x86\Debug\Sempai.Properties.Resources.resources
+C:\Users\Tim\OneDrive\MSVS 2015 Projects\Projects\C#\Sempai\Sempai\obj\x86\Debug\Sempai.RankManagement.resources
+C:\Users\Tim\OneDrive\MSVS 2015 Projects\Projects\C#\Sempai\Sempai\obj\x86\Debug\Sempai.SearchForUser.resources
+C:\Users\Tim\OneDrive\MSVS 2015 Projects\Projects\C#\Sempai\Sempai\obj\x86\Debug\Sempai.csproj.GenerateResource.Cache
+C:\Users\Tim\OneDrive\MSVS 2015 Projects\Projects\C#\Sempai\Sempai\obj\x86\Debug\Sempai.exe
+C:\Users\Tim\OneDrive\MSVS 2015 Projects\Projects\C#\Sempai\Sempai\obj\x86\Debug\Sempai.pdb
